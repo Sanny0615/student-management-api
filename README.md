@@ -2,6 +2,10 @@
 
 A REST API built using **FastAPI**, **SQLAlchemy**, and **SQLite** for managing student records.
 
+## 📸 Project Preview
+
+![Swagger UI](Screenshot%202026-07-31%20094817.png)
+
 ## 🚀 Features
 
 - Add Student
