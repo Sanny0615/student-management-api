@@ -25,12 +25,14 @@ A REST API built using **FastAPI**, **SQLAlchemy**, and **SQLite** for managing 
 | PUT | /students/{id} | Update student |
 | DELETE | /students/{id} | Delete student |
 
-## 🛠️ Tech Stack
-
+- ## 🛠️ Tech Stack
+  
 - Python
 - FastAPI
 - SQLAlchemy
 - SQLite
+- Pydantic
+- Uvicorn
 
 ## ▶️ Run Locally
 
