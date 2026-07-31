@@ -15,6 +15,16 @@ A REST API built using **FastAPI**, **SQLAlchemy**, and **SQLite** for managing 
 - REST API Endpoints
 - SQLite Database
 
+- ## 🚀 API Endpoints
+
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| GET | /students | Get all students |
+| GET | /students/{id} | Get student by ID |
+| POST | /students | Create a new student |
+| PUT | /students/{id} | Update student |
+| DELETE | /students/{id} | Delete student |
+
 ## 🛠️ Tech Stack
 
 - Python
