@@ -69,6 +69,15 @@ student-management-api/
 - Automated Testing
 - Deployment on Render
 
+  ## 👨‍💻 Author
+
+**Dulam Sunny**
+
+- GitHub: https://github.com/Sanny0615
+- LinkedIn: https://www.linkedin.com/in/sunny-goud-8a4329372
+
+If you have any suggestions or feedback, feel free to connect with me.
+
 ## ▶️ Run Locally
 
 ```bash
