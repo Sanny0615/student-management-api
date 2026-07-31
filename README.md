@@ -60,6 +60,15 @@ student-management-api/
 └── student.db
 ```
 
+## 🚀 Future Improvements
+
+- JWT Authentication
+- Role-Based Access Control (Admin/Student)
+- PostgreSQL Database
+- Docker Support
+- Automated Testing
+- Deployment on Render
+
 ## ▶️ Run Locally
 
 ```bash
