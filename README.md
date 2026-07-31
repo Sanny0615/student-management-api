@@ -91,6 +91,15 @@ Visit:
 http://127.0.0.1:8000/docs
 ```
 
+
+## 🚀 Live Demo
+
+API URL:
+https://student-management-api-7yok.onrender.com
+
+Swagger Documentation:
+https://student-management-api-7yok.onrender.com/docs
+
 ## 📚 Learning Outcome
 
 This project helped me learn:
