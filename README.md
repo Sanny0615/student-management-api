@@ -34,6 +34,19 @@ A REST API built using **FastAPI**, **SQLAlchemy**, and **SQLite** for managing 
 - Pydantic
 - Uvicorn
 
+  ## ⚙️ Installation
+
+```bash
+git clone https://github.com/Sanny0615/student-management-api.git
+cd student-management-api
+pip install -r requirements.txt
+uvicorn main:app --reload
+```
+
+Open:
+
+http://127.0.0.1:8000/docs
+
 ## ▶️ Run Locally
 
 ```bash
