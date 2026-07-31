@@ -47,6 +47,19 @@ Open:
 
 http://127.0.0.1:8000/docs
 
+## 📂 Project Structure
+
+```
+student-management-api/
+├── routers/
+├── database.py
+├── models.py
+├── database_connection.py
+├── main.py
+├── requirements.txt
+└── student.db
+```
+
 ## ▶️ Run Locally
 
 ```bash
