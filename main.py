@@ -1,15 +1,14 @@
-from fastapi import FastAPI, HTTPException
-from models import Student
-from database import students,t
-from routers import students
-from database_connection import engine,Base
-from models import StudentDB
+from fastapi import FastAPI
+from routers import students,branches,users
+from database.database_connection import engine,Base
 
 app = FastAPI()
 
 Base.metadata.create_all(bind=engine)
 
 app.include_router(students.router)
+app.include_router(branches.router)
+app.include_router(users.router)
 
 @app.get("/")
 def home():
